@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Alive in America</string>
+		<key>releaseDate</key>
+		<string>2001</string>
+		<key>description</key>
+		<string>cool cd</string>
+		<key>audioPath</key>
+		<string>http://davidalvarado.com/stream/alivemix.mp3</string>
+		<key>imagePath</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Midnight Express</string>
+		<key>releaseDate</key>
+		<string>2001</string>
+		<key>description</key>
+		<string>cool cd</string>
+		<key>audioPath</key>
+		<string>http://davidalvarado.com/stream/alivemix.mp3</string>
+		<key>imagePath</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Deep Collection</string>
+		<key>releaseDate</key>
+		<string>2001</string>
+		<key>description</key>
+		<string>cool cd</string>
+		<key>audioPath</key>
+		<string>http://davidalvarado.com/stream/alivemix.mp3</string>
+		<key>imagePath</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
